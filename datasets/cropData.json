@@ -1,0 +1,23 @@
+[
+  {
+    "soilType": "Black",
+    "season": "Kharif",
+    "crop": "Cotton",
+    "seed": "Bt Cotton",
+    "fertilizer": "Urea"
+  },
+  {
+    "soilType": "Alluvial",
+    "season": "Rabi",
+    "crop": "Wheat",
+    "seed": "HD-2967",
+    "fertilizer": "DAP"
+  },
+  {
+    "soilType": "Red",
+    "season": "Kharif",
+    "crop": "Groundnut",
+    "seed": "GG-20",
+    "fertilizer": "NPK 20:20:20"
+  }
+]
